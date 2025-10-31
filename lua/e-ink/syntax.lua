@@ -148,6 +148,7 @@ function M.generate_syntax()
    set_hl("NotifyErrorBorder", { link = "DiagnosticError" })
 
    -- treesitter
+   set_hl("@keyword", { fg = mono[12], italic = true })
    set_hl("@markup.link", { fg = mono[14] })
    set_hl("@markup.link.label", { bold = true, underline = false })
    set_hl("@markup.link.url", { fg = mono[8], bold = false, underline = true, italic = true })
