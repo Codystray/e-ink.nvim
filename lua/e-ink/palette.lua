@@ -58,15 +58,15 @@ local everforest = {
       red =         "#955658",
       statusline3 = "#955658",
       bg_red =      "#d2b2b3",
-      yellow =      "#d6b071",
+      yellow =      "#c49c67",
       green =       "#7f927a",
       statusline1 = "#7f927a",
       bg_green =    "#b5c0b2",
       blue =        "#4682b4",
-      bg_blue =     "#b0c4de",
+      bg_blue =     "#ABB3B6",
       aqua =        "#6a8a97",
       purple =      "#a596a9",
-      orange =      "#ad9671"
+      orange =      "#b47846"
    }
 }
 
