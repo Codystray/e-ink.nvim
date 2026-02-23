@@ -55,18 +55,18 @@ local everforest = {
       orange = "#E69875"
    },
    light = {
-      red = "#F85552",
-      statusline3 = "#E66868",
-      bg_red = "#FFE7DE",
-      yellow = "#DFA000",
-      green = "#8DA101",
-      statusline1 = "#93B259",
-      bg_green = "#f3f5d9",
-      blue = "#3A94C5",
-      bg_blue = "#ECF5ED",
-      aqua = "#35A77C",
-      purple = "#DF69BA",
-      orange = "#F57D26"
+      red =         "#ad7173",
+      statusline3 = "#ad7173",
+      bg_red =      "#d2b2b3",
+      yellow =      "#d6b071",
+      green =       "#7f927a",
+      statusline1 = "#7f927a",
+      bg_green =    "#b5c0b2",
+      blue =        "#4682b4",
+      bg_blue =     "#b0c4de",
+      aqua =        "#6a8a97",
+      purple =      "#a596a9",
+      orange =      "#ad9671"
    }
 }
 
