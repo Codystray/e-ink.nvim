@@ -55,8 +55,8 @@ local everforest = {
       orange = "#E69875"
    },
    light = {
-      red =         "#ad7173",
-      statusline3 = "#ad7173",
+      red =         "#955658",
+      statusline3 = "#955658",
       bg_red =      "#d2b2b3",
       yellow =      "#d6b071",
       green =       "#7f927a",
